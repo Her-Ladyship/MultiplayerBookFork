@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "RoboCatClient\\RoboCatClient.vcxproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "RoboCatServer\\RoboCatServer.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

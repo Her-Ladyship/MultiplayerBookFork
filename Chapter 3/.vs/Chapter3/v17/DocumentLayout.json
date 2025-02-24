@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Year Two\\Metaverse\\Term 2\\MultiplayerBookFork\\Chapter 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B75176-8D81-4E7B-A5D0-C2E5423844D3}|RoboCat\\Chapter3.vcxproj|C:\\Year Two\\Metaverse\\Term 2\\MultiplayerBookFork\\Chapter 3\\RoboCat\\Src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3B75176-8D81-4E7B-A5D0-C2E5423844D3}|RoboCat\\Chapter3.vcxproj|solutionrelative:RoboCat\\Src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Year Two\\Metaverse\\Term 2\\MultiplayerBookFork\\Chapter 3\\RoboCat\\Src\\Main.cpp",
+              "RelativeDocumentMoniker": "RoboCat\\Src\\Main.cpp",
+              "ToolTip": "C:\\Year Two\\Metaverse\\Term 2\\MultiplayerBookFork\\Chapter 3\\RoboCat\\Src\\Main.cpp",
+              "RelativeToolTip": "RoboCat\\Src\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T11:20:59.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

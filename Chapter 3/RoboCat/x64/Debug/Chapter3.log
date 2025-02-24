@@ -1,0 +1,38 @@
+﻿  Main.cpp
+  SocketAddress.cpp
+C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\Main.cpp(5,112): warning C4100: 'nCmdShow': unreferenced formal parameter
+C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\Main.cpp(5,36): warning C4100: 'hInstance': unreferenced formal parameter
+  SocketAddressFactory.cpp
+C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\SocketAddress.cpp(9,2): error C2664: 'PCWSTR InetNtopW(INT,const void *,PWSTR,size_t)': cannot convert argument 3 from 'char [128]' to 'PWSTR'
+      C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\SocketAddress.cpp(9,67):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\Ws2tcpip.h(602,1):
+      see declaration of 'InetNtopW'
+      C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\SocketAddress.cpp(9,2):
+      while trying to match the argument list '(const ADDRESS_FAMILY, in_addr *, char [128], size_t)'
+  
+  SocketUtil.cpp
+C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\SocketUtil.cpp(90,102): warning C4100: 'ioNaxNfds': unreferenced formal parameter
+  StringUtils.cpp
+C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\StringUtils.cpp(58,2): error C2664: 'void OutputDebugStringW(LPCWSTR)': cannot convert argument 1 from 'char [4096]' to 'LPCWSTR'
+      C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\StringUtils.cpp(58,21):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\debugapi.h(61,1):
+      see declaration of 'OutputDebugStringW'
+      C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\StringUtils.cpp(58,2):
+      while trying to match the argument list '(char [4096])'
+  
+C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\StringUtils.cpp(59,2): error C2664: 'void OutputDebugStringW(LPCWSTR)': cannot convert argument 1 from 'const char [2]' to 'LPCWSTR'
+      C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\StringUtils.cpp(59,21):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\debugapi.h(61,1):
+      see declaration of 'OutputDebugStringW'
+      C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\StringUtils.cpp(59,2):
+      while trying to match the argument list '(const char [2])'
+  
+  TCPSocket.cpp
+C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\TCPSocket.cpp(44,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Year Two\Metaverse\Term 2\MultiplayerBookFork\Chapter 3\RoboCat\Src\TCPSocket.cpp(55,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  RoboCatPCH.cpp
+  UDPSocket.cpp
+  Generating Code...
